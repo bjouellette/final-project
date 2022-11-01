@@ -12,7 +12,6 @@
 - Front End contains all of the source code for the React application
 - Back End contains all the source code for the Node.js server application and Authentication
 
-
 ## Getting started
 - Clone the project locally
 - Change into the Front End directory
